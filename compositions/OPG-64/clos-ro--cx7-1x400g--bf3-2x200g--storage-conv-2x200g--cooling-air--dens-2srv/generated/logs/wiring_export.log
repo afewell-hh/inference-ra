@@ -1,0 +1,14 @@
+🧬 loaded config '/etc/netbox/config/configuration.py'
+🧬 loaded config '/etc/netbox/config/extra.py'
+🧬 loaded config '/etc/netbox/config/logging.py'
+🧬 loaded config '/etc/netbox/config/plugins.py'
+Exporting wiring YAML for plan: Inference OPG-64 Clos RO Air 2srv (ID: 23)
+
+[OK] Export complete: /tmp/ra_pipeline/inference_opg64_clos_ro_air_2srv/wiring_tmp/wiring-backend.yaml
+  plan_id:    23
+  fabric:     backend
+  timestamp:  2026-03-13T17:09:43.494272+00:00
+  sha256:     c40fb1e73c7460d0a82ffe0d87a926161c9943df084b77b1bdace3fe24f332cc
+  bytes:      25164
+  lines:      1199
+  documents:  77
