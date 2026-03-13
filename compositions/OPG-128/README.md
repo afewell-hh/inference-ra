@@ -10,5 +10,4 @@ Variants
 - clos-ro--cx7-1x400g--bf3-2x200g--storage-conv-2x200g--cooling-liquid--dens-8srv/
 
 Notes
-- Assets are placeholders pending HNP agent output; gateway assets are part of BOM/connectivity.
-
+- Assets are placeholders pending population; gateway assets are part of BOM/connectivity.

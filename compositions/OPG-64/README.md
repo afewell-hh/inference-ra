@@ -9,6 +9,5 @@ Variants
 - clos-ro--cx7-1x400g--bf3-2x200g--storage-conv-2x200g--cooling-air--dens-2srv/
 
 Notes
-- Assets are placeholders pending HNP agent output.
+- Assets are placeholders pending population.
 - See profile selection decision tree in the inference outline.
-

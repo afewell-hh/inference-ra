@@ -7,6 +7,5 @@ Variants
 - clos-ro--cx7-1x400g--bf3-2x200g--storage-conv-2x200g--cooling-liquid--dens-8srv/
 
 Notes
-- Assets are placeholders pending HNP agent output.
+- Assets are placeholders pending population.
 - Dual‑plane is optional at ≤256; prefer single‑plane unless requirements dictate otherwise.
-

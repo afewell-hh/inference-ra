@@ -13,6 +13,5 @@ Common attributes
 - Optics: OS2 single‑mode DR‑class (default)
 
 Notes
-- Assets are placeholders pending HNP agent output.
+- Assets are placeholders pending population.
 - See inference outline for profile selection and SLO guidance.
-

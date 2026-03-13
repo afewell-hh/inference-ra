@@ -1,6 +1,6 @@
 # Using the Inference RA Assets (Scaffold)
 
-This document explains where the HNP agent (and humans) should place and consume assets for the AI Inference RA.
+This document explains where maintainers (and readers) should place and consume assets for the AI Inference RA.
 
 Folder structure
 - `compositions/OPG-<SIZE>/` — size folders (32, 64, 128, 256)
@@ -48,4 +48,3 @@ Quality checklist (before commit)
 - BOM counts reconcile with connectivity-map rows; gateways included where applicable.
 - CRD IDs match CSV `node_id`; gateway `External*` resources present for Minimal and Distributed.
 - Diagrams label links using CSV `node_id:port -> peer_id:peer_port` format.
-
