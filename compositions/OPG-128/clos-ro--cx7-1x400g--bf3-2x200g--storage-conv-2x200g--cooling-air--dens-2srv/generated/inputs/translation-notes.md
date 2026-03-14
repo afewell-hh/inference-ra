@@ -3,8 +3,8 @@
 ## Pass-1 Status: complete-pass1
 
 ## Generation Summary
-- Plan ID at generation: 24
-- Site slug: inf-opg128-ro-air
+- Plan ID at generation: 54
+- Site slug: inf-opg128-clos-ro-air
 - Device count: 0
 
 ## Known Gaps
